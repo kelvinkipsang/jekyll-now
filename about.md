@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
-introvert,allergic to eggs and broke?
+A skilled developer, great team player with comprehensive technical skills in project design and development using
+python. 
 
 [kelvinkipsang@gmail.com](mailto:kelvinkipsang@gmail.com)
