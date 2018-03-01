@@ -1,0 +1,45 @@
+
+.intro9{
+    font-family: 'Varela Round', sans-serif; 
+    color: aliceblue;
+    font-size: 20px;
+  margin-top: 300px;
+    display: block;
+}
+.intro{
+  margin-top: 100px;
+}
+.form-signin input, button {
+    max-width: 330px;
+    padding: 20px;
+    margin: 20px;
+/*    padding-bottom: 20px;*/
+    
+}
+.form-reg{
+    max-width: 400px;
+    
+}
+.form-reg9{
+    width: 370px;
+    max-width: 400px;
+    padding: 20px;
+    height: 200px;
+}
+body{
+    background-image: url('../img/back.jpg');
+}
+.white-text {
+    color: white;
+    
+}
+
+.buttn {
+    margin-left: 0px;
+}
+
+.head9 {
+    margin-left: 20px;
+}
+
+
